@@ -1,0 +1,6 @@
+{
+  "POM.XML":"A Project Object Model or POM is the fundamental unit of work in Maven. It is an XML file that contains information about the project and configuration details used by Maven to build the project.",
+  "BUILD.XML":"The build.xml file, if it is an ant script, is not used to import the project into an IDE like Eclipse or Netbeans. A build script is used to build the project (or produce some desired output) rather than an mechanism for importing the project into an IDE",
+  "PACKAGE.JSON":"This file holds various metadata relevant to the project. This file is used to give information to npm that allows it to identify the project as well as handle the project's dependencies. It can also contain other metadata such as a project description, the version of the project in a particular distribution, license information, even configuration data - all of which can be vital to both npm and to the end users of the package. The package.json file is normally located at the root directory of a Node.js project.",
+  "README.MD":"A README file contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called READ.ME, README.TXT, README.md (for a text file using markdown markup), README.1ST – or simply README."
+}

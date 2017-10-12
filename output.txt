@@ -1,0 +1,95 @@
+[
+  {
+    "File Details": [
+      {
+        "Magic string": " -",
+        "Paradigm": "Multi-paradigm: procedural, functional, object-oriented, generic[1]",
+        "Description": " CPP file is a C++ Source Code. C++ is a general-purpose programming language. It is a statically-typed free-form multi-paradigm language supporting procedural programming, data abstraction, object-oriented programming, and generic programming.",
+        "Category": "Developer Files",
+        "Typing discipline": "Static, nominative, partially inferred",
+        "OS": "Cross-platform",
+        "Sample": " -",
+        "Popularity": "4.3(60 Votes)",
+        "Website": "isocpp.org",
+        "Developer": "N/A",
+        "EXTENSION": ".cc .cpp .cxx .C .c++ .h .hh .hpp .hxx .h++",
+        "First appeared": "1983; 34 years ago (1983)",
+        "Influenced by": "C, Simula, ALGOL 68, Ada, CLU, ML",
+        "Name": "C++ Source Code File",
+        "Mime-type": " text/plain",
+        "Designed by": "Bjarne Stroustrup",
+        "Format": "This file is saved in a plain text format. You can open and view the contents of this file using a text editor.",
+        "Influenced": "Ada 95, C99, C#,[2] Chapel,[3] D, Java,[4] Lua, Rust, Python, Perl, PHP",
+        "Magic number": " -",
+        "File Name": "myfile.cpp",
+        "Major implementations": "LLVM Clang, GCC, Microsoft Visual C++, Embarcadero C++Builder, Intel C++ Compiler, IBM XL C++",
+        "Language Family": "C++",
+        "Application": " Microsoft Visual Studio",
+        "Implementation language": "C++"
+      }
+    ]
+  },
+  {
+    "File Details": [
+      {
+        "Mime-type": " application/octet-stream",
+        "Magic string": " -",
+        "Description": " WER file is a Windows Error Report. Windows Error Reporting (WER) is a crash reporting technology introduced by Microsoft with Windows XP and included in later Windows versions and Windows Mobile 5.0 and 6.0.",
+        "Category": "System Files",
+        "Format": "File format categories include Binary, Text, XML, and Zip. The format of this file type has not been determined.",
+        "Magic number": " -",
+        "Sample": " -",
+        "Popularity": "3.2(10 Votes)",
+        "Developer": "Microsoft",
+        "File Name": "y.wer",
+        "Application": " -",
+        "Name": "Windows Error Report"
+      }
+    ]
+  },
+  {
+    "File Details": [
+      {
+        "Mime-type": " application/octet-stream",
+        "Magic string": " -",
+        "Description": " ERT file is an MGL Avionics Enigma Route File. The MGL Avionics Enigma is a flight, engine and navigation instrument designed for experimental and light sport aircraft.",
+        "Category": " GIS files",
+        "Magic number": " -",
+        "Sample": " -",
+        "File Name": "m.ert",
+        "Application": " MGL Avionics Enigma",
+        "Name": "MGL Avionics Enigma Route File"
+      }
+    ]
+  },
+  {
+    "File Details": [
+      {
+        "Magic string": " -",
+        "Description": " JAVA file is a Java Source Code. Java source code can be compiled into Java bytecode (CLASS) using javac, the Java compiler.",
+        "Category": "Developer Files",
+        "Typing discipline": "Static, strong, safe, nominative, manifest",
+        "Sample": " -",
+        "Popularity": "4.1(133 Votes)",
+        "License": "GNU General Public License, Java Community Process",
+        "Dialects": "Generic Java, Pizza",
+        "Developer": "Oracle",
+        "Website": "www.oracle.com/java/",
+        "EXTENSION": ".java, .class, .jar",
+        "First appeared": "May 23, 1995; 21 years ago (1995-05-23)[1]",
+        "Influenced by": "Ada 83, C++,[2] C#,[3] Eiffel,[4] Generic Java, Mesa,[5] Modula-3,[6] Oberon,[7] Objective-C,[8] UCSD Pascal,[9][10] Object Pascal[11]",
+        "Mime type": " text/x-java-source, text/java, text/x-java, application/ms-java",
+        "Name": "Java Source Code File",
+        "Mime-type": " text/plain",
+        "Designed by": "James Gosling",
+        "Format": "This file is saved in a plain text format. You can open and view the contents of this file using a text editor.",
+        "Influenced": "Ada 2005, BeanShell, C#, Chapel,[12] Clojure, ECMAScript, Fantom, Groovy, Hack,[13] Haxe, J#, JavaScript, Kotlin, PHP, Python, Scala, Seed7, Vala",
+        "Magic number": " -",
+        "File Name": "java.java",
+        "Major implementations": "OpenJDK, GNU Compiler for Java (GCJ), many others",
+        "Language Family": "JAVA",
+        "Application": " Java Development Kit"
+      }
+    ]
+  }
+]
